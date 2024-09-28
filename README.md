@@ -21,7 +21,7 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) API built 
 ## Technologies
 
 - **Backend:** ASP.NET Core
-- **Database:** [Your choice of database, e.g., SQL Server, SQLite, etc.]
+- **Database:** MS SQL
 - **ORM:** Entity Framework Core (if applicable)
 
 ## Getting Started
